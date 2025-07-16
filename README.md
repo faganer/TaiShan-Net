@@ -109,4 +109,4 @@ TaiShan Net机场订阅套餐
 
 群内找客服、发工单、官网上右下角找客服都可以。
 
-> TaiShan Net - SSR协议中转+专线机场，IPLC节点：访问[官网](https://jump.p6p.net/87)订阅。
+> TaiShan Net - SSR协议中转+专线机场，IPLC节点：访问[官网](https://tiao.bid/87)订阅。
